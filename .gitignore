@@ -1,0 +1,10 @@
+# Archivos compilados
+*.class
+# Carpetas de compilacion
+build/
+dist/
+# Configuraciones privadas
+nbproject/private/
+# Archivos del sistema
+.DS_Store
+Thumbs.db
